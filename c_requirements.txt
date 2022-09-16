@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+torchvision
+matplotlib
+seaborn
+scikit-learn
+torchviz
+split-folders
